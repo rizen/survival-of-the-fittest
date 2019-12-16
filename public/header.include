@@ -1,0 +1,33 @@
+	<html>
+		<head>
+			<title>Survival of the Fittest</title>
+			<link href="/sotf.css" rel="stylesheet" type="text/css">
+		</head>
+	<body bgcolor="#000000" text="#B19D8F" link="#dddddd" alink="#ffffff" vlink="#dddddd">
+	<table width="100%" bgcolor="#4a4a4a">
+<tr>
+<td align="center">
+<a href="http://www.thegamecrafter.com"><img src="http://www.thegamecrafter.com/logotool.gif" width="800" height="34" alt="The Game Crafter" border=0></a>
+</td>
+</tr>
+</table>
+
+	<div class="gameHeader">
+		Survival of the Fittest 3&nbsp;
+	</div>
+	<table width="100%" cellpadding=5>	<tr>
+	<td class="menu" valign="top" width="110">
+	<b><a href="/game.html" style="color: #FFBD21; font-size: 16pt;">Play now!</a></b><hr size="1">
+	<a href="/index.shtml">Welcome</a><br>
+	<a href="/features.shtml">Game Features</a><br>
+	<a href="/faq.shtml">FAQ</a><br>
+	<a href="/prizes.shtml">Prizes</a><br>
+	<a href="/user.pl">My Account</a><br>
+	<a href="/freePlay.shtml">Free Play</a><br>
+	<a href="/payToPlay.shtml">Pay To Play</a><br>
+	<a href="/board.pl">Message Boards</a><br>
+	<a href="/support.shtml">Support</a><br>
+	<a href="http://www.thegamecrafter.com">The Game Crafter</a><br>
+	</td>
+	<td valign="top" class="mainContent">
+	<!-- BEGINNING OF CONTENT -->

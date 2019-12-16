@@ -1,0 +1,48 @@
+<!--#include file="header.include"-->
+
+	<h1>Support</h1>
+	Are you having problems with SotF? We'll you've come to the right place. We'll do our best to fix
+	your ailment.
+	<p>
+	<h1>System Requirements</h1>
+	<table cellpadding=2 cellspacing=0 border=1 width="100%"><tr><th>Required</th><th>Recommended</th></tr>	<tr><td>
+	&middot;<a href="http://www.microsoft.com/ie">Internet Explorer</a>, <a href="http://www.netscape.com">Netscape</a>, <a href="http://www.mozilla.org">Mozilla</a>, or <a href="http://www.opera.com">Opera</a> 4.x<br>
+	&middot;Cookies and JavaScript enabled in your browser<br>
+	&middot;Pentium 200 (or equivalant)<br>
+	&middot;28.8 kbps Modem<br>
+	&middot;An Internet Service Provider<br>
+	&middot;800x600x256 SVGA Display<br>
+	</td><td>
+	&middot;Internet Explorer 5.x*<br>
+	&middot;Cookies and JavaScript enabled in your browser<br>
+	&middot;Pentium 300 (or equivalant)<br>
+	&middot;Cable Modem or DSL<br>
+	&middot;An Internet Service Provider<br>
+	&middot;1024x768x16-bit SVGA Display<br>
+	</td></tr></table>
+	<div class="formNote">*Some of the effects in the game require Internet Explorer 5 or higher.</div>
+
+	<br><br>
+	<h1>Common Problems and Questions</h1>
+	<dl>
+	<dt>I can't log in.</dt>
+	<dd>Did you create an account? If not, <a href="/user.pl">create one</a>.</dd>
+	<dd>Do you have cookies turned on in your web browser? If not, enable them.</dd>
+	<p>
+	<dt>My character died. Can you restore it for me?</dt>
+	<dd>No. This is a game of survival. It's likely your character will die. Check your message log if you want to know why your character died. We <b>do not</b> restore characters.</dd>
+	<p>
+	<dt>I think I've found a bug in the game, what do I do?</dt>
+	<dd>Post it on the <a href="/board.pl?op=showMessageListing&bid=4">message board</a>. We'll attend to it promptly.</dd>
+	</dl>
+
+	<br>
+	<h1>Still Having Problems?</h1>
+	If you're having problems please post them to the <a href="/board.pl?op=showMessageListing&bid=4">message board</a>. We'll be happy to respond to them
+	promptly if they are posted on the board.
+	<p>
+	We do not provide telephone or email support for Survival of the Fittest. Any phone calls or emails
+	will be disregarded.
+	
+<!--#include file="footer.include"-->
+	

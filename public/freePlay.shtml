@@ -1,0 +1,22 @@
+<!--#include file="header.include"-->
+
+	<h1>Free Play</h1>
+	Free play is pretty much what it sounds like. You can play Survival of the Fittest absolutely free. But
+	there are a two catches:
+	<p>
+	The first catch is that you'll only get 5000 turns to play the game.
+	Everything in SotF is measured by turns. That's how we determine how long a character
+	has been alive (by the number of turns s/he's spent). Under the free-play mode you're granted your first
+	5000 turns to get a taste for the game.
+	For most people, that's simply not enough.
+	<p>
+	The other catch is that there are many features which are only available to pay to play members. Also, any
+	new features added to the game from this point forward will be only for pay to play members.
+	<p>
+	We encourage new users to try out the service under free play mode. See if you like it. If you don't, then
+	you've lost nothing. If you do, then you'll probably want to upgrade to the 
+	<a href="/payToPlay.shtml">pay to play</a> option. What the
+	heck, it's only <b>2 bucks</b>!
+	
+<!--#include file="footer.include"-->
+	

@@ -1,0 +1,69 @@
+<!--#include file="header.include"-->
+
+	<h1>Frequently Asked Questions</h1>
+	<dl>
+	<dt>What do you mean by survival game?
+	<dd>Well, basically it's a giant "king-of-the-hill" match. Except in this case, falling off the hill gets your
+	character killed. Your goal in the game is to survive as long as you can, with all the odds stacked
+	against you.
+	
+	<p>
+	<dt>So does that mean I can be killed multiple times in one game?
+	<dd>Yup! In fact, some people make a game out of how many times they're killed in one game (we of course keep stats on who's died the most times). You can even be killed when you're not playing the game.
+	
+	<p>
+	<dt>What is a web game?
+	<dd>It is a video game that is played on the web.
+	
+	<p>
+	<dt>What is a persistant world?
+	<dd>That means that the game is always running, even when you're not logged on. It also means
+	that all the characters in SotF share the same environment. The game map looks exactly the same
+	for you as it does for everyone else. The economy system continues to evolve. Etc, etc, etc.
+	
+	<p>
+	<dt>Is this one of those shallow featured games that I've seen on some personal web sites?
+	<dd>No. SotF has a <a href="/features.shtml">huge number of features</a> that continues to grow. It is sort of like a choose
+	your own adventure storybook on steroids. It offers all of the features of a large video game, but
+	leaves much of your view of the story up to you, like a good book.
+	
+	<p>
+	<dt>How much is it going to cost me?
+	<dd>Well you can <a href="/freePlay.shtml">sign up for free</a> and try it out, but if you want to 
+	have access to the full game
+	it'll <a href="/payToPlay.shtml">cost you $2.00 per month</a>.
+
+	<p>
+	<dt>Why $2.00 per month?
+	<dd>Each game lasts for one month. Each month of service costs $2.00. We are able to charge so little
+	because we don't have all the packaging and distribution costs that the big games do, and we wanted
+	to make it affordable so that many people could play.
+	
+	<p>
+	<dt>If I can play for free, then why would I pay for it?
+	<dd>The free version is more of a demo. It has all of the features of the full game, but you're 
+	<a href="/freePlay.shtml">limited</a>
+	on how much you can play it.
+	
+	<p>
+	<dt>How so? What's the limiting factor?
+	<dd>We use turns to determine the winner of the game. The person with the most turns spent (multiplied i
+	by renown) at the end of the
+	month wins the game. Likewise, every action in the game costs turns. When you 
+	<a href="/payToPlay.shtml">pay to play</a> you get
+	unlimited turns. When you don't you get only 5000 turns.
+	<p>
+	<dt>So where can I learn how to play the game?
+	<dd>Once you get into the game, you'll see a menu called "Documentation." The items in that
+	 menu will tell you everything you need to know to play SotF.
+	
+	<p>
+	<dt>Where can I sign up?
+	<dd>On the <a href="/user.pl">account page</a>.
+	
+	
+	
+	</dl>
+	
+<!--#include file="footer.include"-->
+	

@@ -1,0 +1,23 @@
+<!--#include file="header.include"-->
+
+	<img src="/sotfGame/nothim.jpg" border="0" width=314 height=405 align="right">
+	<h1>Welcome</h1>
+	Welcome to Survival of the Fittest, a web-based post-apocalypse persistent world 
+	survival game based on the 
+	<a href="http://www.deadearth.com">deadEarth role-playing system</a>. Your goal as a player 
+	is to survive as long as you can
+	in a harsh world that is out to kill you. In your adventures you may encounter towns that shun
+	you, mobs seeking to hunt you down, other players trying to get ahead of you, and even mutants
+	that want to eat you. You can even die of your own accord by not getting enough food, or eating
+	something poisonous, or perhaps by stepping into a trap.
+	<p>
+	Are you thinking that getting killed doesn't sound like much fun? Normally you'd be right, but
+	in this case it is. The game isn't about getting killed, it's about drawing up everything that's
+	inside you to try to <b>survive</b>. There are several hundred other folks who play this game, and
+	they all thought like you once upon a time. Why not give it a try? It won't cost you anything to
+	try.
+	<p>
+	<a href="/user.pl">Would you like to create an account?</a>
+
+<!--#include file="footer.include"-->
+	

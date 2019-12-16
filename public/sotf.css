@@ -1,0 +1,171 @@
+/* Survival of the Fittest Style Sheet */
+
+body {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	font-family: Helvetica,Arial,sans-serif;
+	color: #B19D8F;
+	background-color: #000000;
+	font-size: 10pt;
+ 	scrollbar-base-color: #000000;
+	scrollbar-track-color: #111111;
+	scrollbar-face-color: #000000;
+	scrollbar-highlight-color: #555555;
+ 	scrollbar-3dlight-color: #444444;
+ 	scrollbar-darkshadow-color: #222222;
+ 	scrollbar-shadow-color: #333333;
+ 	scrollbar-arrow-color: #FFB109;
+}
+
+table {
+        font-family: Helvetica,Arial,sans-serif;
+        color: #B19D8F;
+        font-size: 10pt;
+}
+
+
+dt {
+	font-weight: bold;
+}
+
+a:link {
+	color: #dddddd;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #dddddd;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ffffff;
+	text-decoration: none;
+};
+
+h1 {
+	font-size: 18pt;
+}
+
+th {
+        font-family: Helvetica,Arial,sans-serif;
+		text-align: left;
+		font-size: 8pt;
+        background-color: #333333
+}
+
+select, input, textarea {
+	color: #ffffff;
+	background-color: #333322;
+}
+
+.highlight {
+	background-color: #333322;
+}
+
+.formNote {
+	font-size: 8pt;
+}
+
+.mapCoords {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 6pt;
+}
+
+.quickStats {
+	font-size: 8pt;
+        font-family: Helvetica,Arial,sans-serif;
+	background-color: #333333;
+}
+
+.quickStatsData {
+	font-size: 8pt;
+        font-family: Helvetica,Arial,sans-serif;
+        background-color: #221111;
+}
+
+.quickStatsDataAlert {
+	font-size: 8pt;
+        font-family: Helvetica,Arial,sans-serif;
+        background-color: #733B3B;
+}
+
+.quickStatsHeader {
+	font-size: 8pt;
+        font-family: Helvetica,Arial,sans-serif;
+        background-color: #333333
+}
+
+.menu {
+	font-size: 8pt;
+        font-family: Helvetica,Arial,sans-serif;
+};
+
+.mainContent {
+	background-color: #332222;
+        font-family: Helvetica,Arial,sans-serif;
+        font-size: 10pt;
+};
+
+.version {
+        font-family: Helvetica,Arial,sans-serif;
+	font-size: 8pt;
+	text-align: center;
+};
+
+.gameHeader {
+	width: 100%;
+	color: #ffffff;
+	background-color: #333322;
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 10pt;
+	font-style: italic;
+	font-weight: bold;
+	text-align: right;
+	border-bottom-color: #333333;
+	border-bottom-style: inset;
+	border-bottom-width: 3px;
+}
+/* recent message colors */
+
+.player_shout {
+	color: #ffff00;
+}
+
+.player_mail {
+        color: #cccc00;
+}
+
+.player_auction {
+	color: #B8BE02;
+}
+
+.game_advancement {
+	color: #dddddd;
+}
+
+.game_radiation {
+	color: #00ff00;
+}
+
+.game_cheat {
+	color: #000080;
+}
+
+.game_event {
+	color: #FA8D00;
+}
+
+.clan_alert {
+        color: #ffaaaa;
+}
+
+.game_alert {
+	color: #ff0000;
+}
+
+
+
+
+

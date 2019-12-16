@@ -1,0 +1,166 @@
+[TEMPLATES]
+I am the WEAPON of LEGEND!
+The PEOPLE of LEGEND have come!
+EVENT awaits!
+Your EVENT awaits!
+By the ADJECT ITEM!
+LEGEND's ITEM!
+My WEAPON seeks your EVENT!
+From the PLACE of the WEAPON I come!
+Face the ABILITY of LEGEND!
+By the ITEM of LEGEND!
+The ABILITY of the ADJECT dwarves TIME!
+For the PLACE of LEGEND!
+EVENT before INSULT!
+Remember the PLACE of the PEOPLE!
+The ADJECT WEAPON TIME!
+For LEGEND's honor!
+Your INSULT shall be your EVENT!
+The PEOPLE of the ITEM have brought your EVENT!
+By the ADJECT PEOPLE of LEGEND, your EVENT TIME!
+For LEGEND, the ITEM, and the ADJECT!
+WORD!
+By LEGEND, your EVENT TIME!
+The ABILITY of LEGEND brings your EVENT!
+By the ITEM of the PEOPLE, you shall meet your EVENT!
+In the name of LEGEND, the ADJECT PEOPLE, and the ITEM!
+May the ABILITY of LEGEND bring your EVENT!
+By LEGEND, I shall avenge the EVENT of my PEOPLE!
+By LEGEND, I shall avenge the EVENT of my ADJECT PEOPLE!
+LEGEND help the ADJECT PEOPLE!
+By LEGEND's PLACE, I will bring your EVENT!
+By LEGEND's ITEM, your EVENT TIME!
+ITEM of LEGEND, the ADJECT PEOPLE are here!
+ITEM of LEGEND, the PEOPLE are here!
+WORD! WORD! WORD!
+By LEGEND's ITEM, the PEOPLE will bring your EVENT!
+By LEGEND's ITEM, the ADJECT PEOPLE will bring your EVENT!
+For LEGEND! WORD!
+
+[PLACE]
+scrapyard
+tavern
+trade depot
+mountain
+hills
+strip mines
+toxic waste dump
+city fallen to the war
+city
+village
+town
+
+[ADJECT]
+brave
+honorable
+renowned
+noble
+fierce
+fearless
+courageous
+valiant
+bold
+heroic
+powerful
+
+[ABILITY]
+wrath
+power
+vengeance
+might
+glory
+ire
+retribution
+fire
+anger
+vengeance
+fury
+rage
+curse
+
+[INSULT]
+cowardice
+evil
+fear
+weakness
+treachery
+dishonor
+ignorance
+frailty
+shame
+
+[ITEM]
+radiation suit
+name
+blood
+radiation gem
+fire
+flame
+
+[PEOPLE]
+blood
+clansmen
+clanmates
+brothers
+family
+friends
+Wraiths
+Fyth Dogg Pack
+Null
+Wasteland Rogues
+Alpha Prime
+Godsbane
+dEad Men Walking
+Famiglia di Santione
+
+[EVENT]
+death
+defeat
+destruction
+devastation
+doom
+end
+fall
+downfall
+fate
+last day
+reckoning
+last breath
+demise
+
+[LEGEND]
+Jebidiah Delany
+Quidnunc
+Noz Cheney
+General Sime
+General Perminov
+Gern Blanston
+
+[WEAPON]
+.44 handgun
+.50 rifle
+longsword
+pitchfork
+bare fist
+stopsign shield
+bow
+short sword
+mace
+.35 rifle
+whip
+
+[TIME]
+is now
+is here
+has come
+is near
+will come
+
+[WORD]
+dirt
+scum
+die
+arrgh
+bastard
+#$%@!
+
